@@ -1,7 +1,7 @@
 // redirect.ts
 
 // Define the redirect URL
-const redirectUrl = "https://webreview-nusen.live/home"; // Replace with the URL you want to redirect to
+const redirectUrl = "https://nusen-webreview.live/home"; // Replace with the URL you want to redirect to
 
 // Handle the request
 addEventListener("fetch", (event) => {
